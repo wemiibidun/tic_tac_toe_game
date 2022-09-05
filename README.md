@@ -70,8 +70,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 * React
 * JSX
-* CSS
-* Axios
+* Styled Components
 
 ## Features
 The GUI of this project allows users to:
