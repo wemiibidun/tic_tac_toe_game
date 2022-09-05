@@ -86,7 +86,7 @@ Project is: _Complete_
 
 
 ## Inspiration
-This project was inspired by [Tyler Pott's Tutorial](https://www.youtube.com/watch?v=GuA0_Z1llYU)
+This project was inspired by [React's Documentation Page](https://reactjs.org/tutorial/tutorial.html)
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
