@@ -4,7 +4,7 @@
 
 
 
-# Weather App
+# Tic Tac Toe Game
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Table of contents
@@ -26,7 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Introduction
 
-The aim of this project is create a weather app with react that grabs some specific information from open weather API such as temperature and displays to the user. Two different backgrounds were used to display the weather information depending on how hot or cold the weather is. The aim of this project is to practice and showcase my react hooks skills. Axios was used as the third party to grap the required information from the API and the project was deployed on Github pages
+The aim of this project is create an interactive tic tac toe game with React. This project was inspired by the official React documentation page. On that page, the game was built using class components but this game uses functional components i.e React hooks. Another plus with this project is that it was styled with styled components (_a library built for React and React Native developers that allows developers to use component-level styles in their applications_)
 
 #### Available Scripts
 
@@ -60,28 +60,25 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/weather_app2_react/blob/main/Screen%20Shot.png)
-![Sample image](https://github.com/wemiibidun/weather_app2_react/blob/main/Screen%20Shot2.png)
+![Sample image](https://github.com/wemiibidun/tic_tac_toe_game/blob/main/Screen%20Shot.png)
 
 ## Technologies (Language, Library and Framework)
-![React](https://img.shields.io/badge/React-239120?style=for-the-badge&logo=react&logoColor=white)
-![JSX](https://img.shields.io/badge/JSX-239120?style=for-the-badge&logo=jsx&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-239120?style=for-the-badge&logo=axios&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![StyledComponents](https://img.shields.io/badge/StyledComponents-239120?&style=for-the-badge&logo=styledcomponent&logoColor=white)
 
 * React
-* JSX
-* CSS
-* Axios
+* Javascript
+* Styled Components
 
 ## Features
 The GUI of this project allows users to:
-* Search for a city's weather information
-* User will be able to see the current temperature and a little description of the cloud
+* Play the tic tac toe game against the computer
+* User will be able to restart the game anytime they wish and also when a user wins
 
 
 ## Link to Published Project
-[Weather App Webpage](https://wemiibidun.github.io/weather_app2_react/)
+[Tic Tac Toe Webpage](https://wemiibidun.github.io/weather_app2_react/)
 
 
 ## Status
@@ -89,7 +86,7 @@ Project is: _Complete_
 
 
 ## Inspiration
-This project was inspired by [Tyler Pott's Tutorial](https://www.youtube.com/watch?v=GuA0_Z1llYU)
+This project was inspired by [React's Documentation Page](https://reactjs.org/tutorial/tutorial.html)
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
