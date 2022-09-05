@@ -65,8 +65,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Technologies (Language, Library and Framework)
 ![React](https://img.shields.io/badge/React-239120?style=for-the-badge&logo=react&logoColor=white)
 ![JSX](https://img.shields.io/badge/JSX-239120?style=for-the-badge&logo=jsx&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-239120?style=for-the-badge&logo=axios&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=styledcomponent&logoColor=white)
 
 * React
 * JSX
