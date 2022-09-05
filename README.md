@@ -74,7 +74,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Features
 The GUI of this project allows users to:
 * Play the tic tac toe game against the computer
-* User will be able to restart the game anytime they wish and also when a user wins
+* Restart the game anytime they wish and also when a user wins
 
 
 ## Link to Published Project
