@@ -26,7 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Introduction
 
-The aim of this project is create a weather app with react that grabs some specific information from open weather API such as temperature and displays to the user. Two different backgrounds were used to display the weather information depending on how hot or cold the weather is. The aim of this project is to practice and showcase my react hooks skills. Axios was used as the third party to grap the required information from the API and the project was deployed on Github pages
+The aim of this project is create an interactive tic tac toe game with React. This project was inspired by the official React documentation page. On that page, the game was built using class components but this game uses functional components i.e React hooks
 
 #### Available Scripts
 
@@ -73,12 +73,12 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Features
 The GUI of this project allows users to:
-* Search for a city's weather information
-* User will be able to see the current temperature and a little description of the cloud
+* Play the tic tac toe game against the computer
+* User will be able to restart the game anytime they wish and also when a user wins
 
 
 ## Link to Published Project
-[Weather App Webpage](https://wemiibidun.github.io/weather_app2_react/)
+[Tic Tac Toe Webpage](https://wemiibidun.github.io/weather_app2_react/)
 
 
 ## Status
