@@ -63,9 +63,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ![Sample image](https://github.com/wemiibidun/tic_tac_toe_game/blob/main/Screen%20Shot.png)
 
 ## Technologies (Language, Library and Framework)
-![React](https://img.shields.io/badge/React-239120?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white)
 ![JSX](https://img.shields.io/badge/JSX-239120?style=for-the-badge&logo=jsx&logoColor=white)
-![StyledComponents](https://img.shields.io/badge/StyledComponents-239120?&style=for-the-badge&logo=styledcomponent&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/Styled Components-239120?&style=for-the-badge&logo=styledcomponent&logoColor=white)
 
 * React
 * JSX
