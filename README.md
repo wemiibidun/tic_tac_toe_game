@@ -26,7 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Introduction
 
-The aim of this project is create an interactive tic tac toe game with React. This project was inspired by the official React documentation page. On that page, the game was built using class components but this game uses functional components i.e React hooks
+The aim of this project is create an interactive tic tac toe game with React. This project was inspired by the official React documentation page. On that page, the game was built using class components but this game uses functional components i.e React hooks. Another plus with this project is that it was styled with styled components (_a library built for React and React Native developers that allows developers to use component-level styles in their applications_)
 
 #### Available Scripts
 
