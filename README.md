@@ -78,7 +78,7 @@ The GUI of this project allows users to:
 
 
 ## Link to Published Project
-[Tic Tac Toe Webpage](https://wemiibidun.github.io/weather_app2_react/)
+[Tic Tac Toe Webpage](https://wemiibidun.github.io/tic_tac_toe_game/)
 
 
 ## Status
